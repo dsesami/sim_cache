@@ -1,10 +1,7 @@
 /* 
  * sim_cache
  * @author Daniel Albert Sami
- * ECE 463
- * Fall 2016
- *
- * Project #1
+ * September 2016
  * ==========
  * L1 cache simulator with support for LRU, FIFO, and pseudo-LRU replacement policies.
  *
