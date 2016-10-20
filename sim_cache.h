@@ -1,4 +1,4 @@
-// cache.h
+// just one header in this case :)
 
 #ifndef __CACHE_INCLUDED__
 #define __CACHE_INCLUDED__
